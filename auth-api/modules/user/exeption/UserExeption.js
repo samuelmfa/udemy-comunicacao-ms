@@ -8,4 +8,4 @@ class UserExeption extends Error {
   }
 }
 
-module.exports = UserExeption;
+export default UserExeption;
